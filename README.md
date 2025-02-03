@@ -1,8 +1,7 @@
 # **Embedded AI - Power Consumption Prediction**
 
-<p align="center">
-  <img src="./images/AI2.jpg" width="500">
-</p>
+![Banner](https://raw.githubusercontent.com/PARSA-MHMDI/Embeded_Machine_Learning/refs/heads/master/Images/AI2.jpg)  
+
 
 ## **Outline**
 1. [Overview](#overview)
@@ -85,24 +84,20 @@ Embedded AI is a project focused on implementing a machine learning model for po
 ## **Model Architecture**
 The neural network architecture used for power consumption prediction is based on a **1D CNN + Dense Layers** model. The structure is optimized for edge deployment and efficiency in embedded environments.
 
-<p align="center">
-  <img src="./images/Model.png" width="600">
-</p>
+![model](https://raw.githubusercontent.com/PARSA-MHMDI/Embeded_Machine_Learning/refs/heads/master/Images/Model.png)  
 
 ---
 
 ## **Hardware Requirements**
 - **STM32F407G Discovery Board**
 
-<p align="center">
-  <img src="./images/Board.jpg" width="500">
-</p>
+![board](https://raw.githubusercontent.com/PARSA-MHMDI/Embeded_Machine_Learning/refs/heads/master/Images/board.jpg)  
+
 
 - **USB-to-TTL Module** (for UART debugging)
 
-<p align="center">
-  <img src="./images/USB_TTL.jpg" width="500">
-</p>
+![UART_TTL](https://raw.githubusercontent.com/PARSA-MHMDI/Embeded_Machine_Learning/refs/heads/master/Images/USB_TTL.jpg)  
+
 
 - **Power Consumption Sensor** (optional for real-time data)
 - **Computer with STM32CubeIDE installed**
@@ -128,16 +123,16 @@ The dataset consists of historical power consumption values.
   - Evaluated using **RMSE, MAE, and MAPE**  
 
 **Training Graphs:**  
-![Training Graph](./Images/loss.jpg)  
+![Training Graph](https://raw.githubusercontent.com/PARSA-MHMDI/Embeded_Machine_Learning/refs/heads/master/Images/Loss.jpg)  
 
 ---
 
 ## **Results & Performance**
 - **Prediction RMSE:** 0.000667201  
-- **Memory Usage:** 795.91 KiB  
+- **Memory Usage:** 795.91 KiB      
 - **Power Consumption:** 14.68 KiB  
 
-![Report](./images/Report.jpg)
+![Report](https://raw.githubusercontent.com/PARSA-MHMDI/Embeded_Machine_Learning/refs/heads/master/Images/Report.jpg)
 
 ---
 
