@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/consumption_model.c:364:9:consumption_model_configure_activations	16	static
+../X-CUBE-AI/App/consumption_model.c:397:9:consumption_model_configure_weights	16	static
+../X-CUBE-AI/App/consumption_model.c:436:9:ai_consumption_model_get_info	160	static
+../X-CUBE-AI/App/consumption_model.c:483:9:ai_consumption_model_get_report	160	static
+../X-CUBE-AI/App/consumption_model.c:530:10:ai_consumption_model_get_error	16	static
+../X-CUBE-AI/App/consumption_model.c:537:10:ai_consumption_model_create	24	static
+../X-CUBE-AI/App/consumption_model.c:548:10:ai_consumption_model_create_and_init	88	static
+../X-CUBE-AI/App/consumption_model.c:583:12:ai_consumption_model_inputs_get	16	static
+../X-CUBE-AI/App/consumption_model.c:594:12:ai_consumption_model_outputs_get	16	static
+../X-CUBE-AI/App/consumption_model.c:605:11:ai_consumption_model_destroy	16	static
+../X-CUBE-AI/App/consumption_model.c:612:9:ai_consumption_model_init	24	static
+../X-CUBE-AI/App/consumption_model.c:629:8:ai_consumption_model_run	24	static
+../X-CUBE-AI/App/consumption_model.c:637:8:ai_consumption_model_forward	16	static
